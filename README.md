@@ -3,6 +3,7 @@ A computationally efficient correlated mixed probit model for credit risk infere
 
 Authors:
 Veronica Vinciotti, Brunel University London, veronica.vinciotti@brunel.ac.uk
+
 Elisa Tosetti, Brunel University London, elisa.tosetti@brunel.ac.uk
 
 Journal: submitted to JRSS-C
